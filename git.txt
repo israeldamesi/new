@@ -1,0 +1,7 @@
+allows us to track changes made to our files.
+you have to initial git for that folder. by >>git init
+ >>you can check the status of all the files in that folder as to whether they are being tracked or not. files in red are not being tracked. >>git status
+
+to start tracking changes in that file. >>git add filename
+>>you can again check status, once it is no longer red, it is ready to be commited
+git commit -m( the -m flag is the message, to keep you informed of what changes you have made.
